@@ -1,4 +1,4 @@
-# Acdyon Scraper Demo — Step by Step (from zero)
+# Acdyon Scraper Demo
 
 This assumes you've never deployed a Python web app before. Follow in order.
 
